@@ -1,5 +1,6 @@
 # Nezuko-s-PI-Adventure
 game jam submission for PI DAY GAME JAM 2025
+
 ![cover](https://github.com/user-attachments/assets/2105aedd-7088-480a-adc2-21fecede094a)
 
 Nezuko GIF:
